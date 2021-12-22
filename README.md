@@ -1,1 +1,1 @@
-# React-starting-project
+# Lottery React Project
