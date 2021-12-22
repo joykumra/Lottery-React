@@ -89,6 +89,8 @@ function App() {
     }
   };
 
+  console.log(lotteryContract);
+
   return (
     <React.Fragment>
       <h2>Lottery Contract</h2>
